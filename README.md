@@ -4,5 +4,5 @@
 
 | script | run time |
 | ------ | -------- |
-| auto-commit.bat | 1000 commits in 00:03:12.240000  |
-| auto-commit.py | 1000 commits in 00:04:05.980919 |
+| auto-commit.bat | 5000 commits in 00:19:07.840000  |
+| auto-commit.py | 5000 commits in 00:53:33.891692 |
