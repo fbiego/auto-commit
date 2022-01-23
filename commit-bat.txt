@@ -1,1 +1,2 @@
-auto-commit 5000 
+auto-commit.bat
+5000 commits in 24:20:36.730000 
