@@ -1,5 +1,5 @@
 @echo off
-auto-commit.bat
-py readme.py
-git push -u origin main
+call auto-commit.bat
+call py readme.py
+call git push -u origin main
 pause
