@@ -1,2 +1,1 @@
-auto-commit.bat
-10000 commits in 00:23:00.940000 
+auto-commit 1 
