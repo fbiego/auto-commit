@@ -1,1 +1,2 @@
+auto-commit.bat
 auto-commit 10016 
